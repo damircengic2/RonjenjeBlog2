@@ -8,8 +8,8 @@ date:
   format: j F Y
   timezone: Europe/Paris
 pagination:
-  max: 0
-  path: '0'
+  max: 10
+  path: blog.sepet.team/
 output:
   formats:
     netlify_redirects:
